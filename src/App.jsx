@@ -3,7 +3,7 @@ import { Hero } from './Components/Hero'
 import About from './Components/About'
 import Service from './Components/Services.jsx';
 import Contact from './Components/Contact.jsx'
-import Form from './Components/form.jsx';
+import Form from './Components/Form.jsx';
 
 export default function App() {
   return (
