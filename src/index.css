@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --body-background: black
+    --title : white
+   -- primary : blue
+}
+
+[data-theme ='light']{
+    --body-background: black
+    --title : white
+   -- primary : blue
+}
+
+[data-theme ='dark']{
+    --body-background: rgb(52,52,52)
+    --title : white
+   --primary : rgb(97,97,255)
+}
