@@ -6,7 +6,7 @@ let services = [
         description:"Creating Visually appealing and user friendly designs"},
 
        { id:2,
-        title:"Frond Development ",
+        title:"Front Development ",
         description:"Building responsive and intereactive user interfaces"},
 
         { id:3,
